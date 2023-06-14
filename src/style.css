@@ -27,7 +27,7 @@ body {
   border-radius: 5%;
   box-shadow: 0px 5px 15px grey;
 }
-.simboltop {
+.pintatop {
   display: inline-flex;
   justify-content: flex-start;
   margin-left: 5%;
@@ -44,7 +44,7 @@ body {
   padding-bottom: -3%;
 }
 
-.simbolbot {
+.pintabot {
   display: flex;
   justify-content: flex-start;
   margin-right: 5%;
